@@ -1,6 +1,6 @@
 {
   "name": "@savvy-css/display-utilities",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Display utilities for Savvy CSS.",
   "main": "build/display-utilities.css",
   "style": "build/display-utilities.css",
